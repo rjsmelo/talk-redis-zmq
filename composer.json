@@ -1,0 +1,15 @@
+{
+    "name": "rjsmelo/talk-redis-zmq",
+    "description": "Sample code for Redis & ZeroMQ presentation",
+    "require": {
+        "ext-zmq": "*",
+        "predis/predis": "dev-master"
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Ricardo Melo",
+            "email": "ricardo.melo@dri.pt"
+        }
+    ]
+}
